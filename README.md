@@ -1,8 +1,6 @@
-# MAGIC 8 BALL
+# PythonPractice 
 
 
-
-
-This is a small python program that acts as a Magic 8 ball.  
+>This is a repo for me to practice python so that i can ultimately get better at the language.    
 
 
