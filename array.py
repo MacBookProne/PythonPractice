@@ -35,6 +35,8 @@ def array_tests():
 
 	jo.sort()
 	print("New sort", jo )
+
+	
 def main():
     array_tests()
 
