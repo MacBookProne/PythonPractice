@@ -13,14 +13,18 @@ def bubbleSort(arr):
 # Driver code to test above
 arr = [99, 69, 48, 9, 33, 1, 87, 121, 43]
 
-bubbleSort(arr)
-arr.pop(-1)
-arr.append(1000)
+bubbleSort(arr) #sorts the array
+arr.pop(-1) #pops the -1th item
+arr.append(1000) #adds 1000 to the array
 
 
 
-arr.reverse()
-arr.append(290)
+arr.reverse() #reverses the array
+arr.append(290) #adds 290 to the array
+
+
+
+bubbleSort(arr) # sorts the array 
 
 print ("Sorted array is:")
 for i in range(len(arr)):
