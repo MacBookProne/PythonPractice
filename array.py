@@ -12,6 +12,10 @@ def array_tests():
 
 
 	jo.remove(9)
+	
+	jo.append(19)
+	
+	jo.remove(3)
 	print("Removal of 9:", jo)
 
 	jo.reverse()
